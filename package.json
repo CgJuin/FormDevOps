@@ -1,0 +1,22 @@
+{
+  "name": "formdevops",
+  "version": "1.0.0",
+  "description": "\"# FormDevOps\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgjuin/formDevOps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgjuin/formDevOps/issues"
+  },
+  "homepage": "https://github.com/cgjuin/formDevOps#readme",
+  "devDependencies": {
+    "should": "^11.2.1"
+  }
+}
